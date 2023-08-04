@@ -1,6 +1,7 @@
 # Hello there 👋
 
 ![](https://github.com/kevinjolley91/kevinjolley91/blob/main/21d.gif)
+<img src="/images/output/21d.gif" width="400 height="400/>
 
 I'm learning to become a web/software developer with an addiction to video games, especially 2D platforms in the Metroidvania genre.
 

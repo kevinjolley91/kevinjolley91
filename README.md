@@ -1,6 +1,5 @@
 # Hello there 👋
 
-![](https://github.com/kevinjolley91/kevinjolley91/blob/main/21d.gif)
 <p align="center">
   <img src="https://github.com/kevinjolley91/kevinjolley91/blob/main/21d.gif" alt="animated" />
 </p>

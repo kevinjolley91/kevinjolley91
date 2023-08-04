@@ -1,7 +1,7 @@
 # Hello there 👋
 
 <p align="center">
-  <img src="https://github.com/kevinjolley91/kevinjolley91/blob/main/21d.gif" alt="animated" />
+  <img src="https://github.com/kevinjolley91/kevinjolley91/blob/main/21d.gif" alt="animated" width="1000" height="342"/>
 </p>
 I'm learning to become a web/software developer with an addiction to video games, especially 2D platforms in the Metroidvania genre.
 

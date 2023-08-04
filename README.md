@@ -1,8 +1,8 @@
 # Hello there 👋
 
-
+![](https://github.com/kevinjolley91/kevinjolley91/blob/main/21d.gif)
 <p align="center">
-  <img src="[demo.gif](https://github.com/kevinjolley91/kevinjolley91/blob/main/21d.gif)" alt="animated" />
+  <img src="https://github.com/kevinjolley91/kevinjolley91/blob/main/21d.gif" alt="animated" />
 </p>
 I'm learning to become a web/software developer with an addiction to video games, especially 2D platforms in the Metroidvania genre.
 

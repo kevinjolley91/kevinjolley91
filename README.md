@@ -8,7 +8,7 @@ I'm learning to become a web/software developer with an addiction to video games
 &nbsp;
 &nbsp;
 <div>
-I'm involved in a course that is teach me Ruby on Rails, Javascript, and React. I'm also gaining experience with the Unity game engine and writing scripts to add features to the game.
+I'm involved in a course that is teach me Ruby on Rails, Javascript, and React. I'm also gaining experience with the Unity game engine and writing scripts in C# to add features to the game.
 </div>
 <!--
 **kevinjolley91/kevinjolley91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

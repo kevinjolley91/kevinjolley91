@@ -12,7 +12,6 @@
 </div>
 
 &nbsp;
-&nbsp;
 <div>
 I'm involved in a course that is teach me Ruby on Rails, Javascript, and React.
 </div>

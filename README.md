@@ -3,12 +3,12 @@
 <p align="center">
   <img src="https://github.com/kevinjolley91/kevinjolley91/blob/main/21d.gif" alt="animated" width="1000" height="342"/>
 </p>
-I'm learning to become a web/software developer with an addiction to video games, especially 2D platforms in the Metroidvania genre.
+I'm learning to become a web/software developer with a slight addiction to video games.
 
 &nbsp;
 &nbsp;
 <div>
-I'm involved in a course that is teach me Ruby on Rails, Javascript, and React. I'm also gaining experience with the Unity game engine and writing scripts in C# to add features to the game.
+I'm involved in a course that is teach me Ruby on Rails, Javascript, and React.
 </div>
 <!--
 **kevinjolley91/kevinjolley91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

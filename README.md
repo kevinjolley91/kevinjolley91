@@ -1,7 +1,7 @@
 # Hello there 👋
 
 <p align="center">
-  <img src="https://github.com/kevinjolley91/kevinjolley91/blob/main/giphy.gif" alt="animated" width="500" height="500"/>
+  <img src="https://github.com/kevinjolley91/kevinjolley91/blob/main/giphy.gif" alt="animated" width="750" height="500"/>
 </p>
 <div>
   I'm learning to become a web/software developer with a slight addiction to video games.

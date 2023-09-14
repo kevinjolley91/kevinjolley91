@@ -3,7 +3,13 @@
 <p align="center">
   <img src="https://github.com/kevinjolley91/kevinjolley91/blob/main/matrix-matrix-code.gif" alt="animated" width="1000" height="250"/>
 </p>
-I'm learning to become a web/software developer with a slight addiction to video games.
+<div>
+  "What do the numbers mean?" "Just Google it."
+</div>
+<br />
+<div>
+  I'm learning to become a web/software developer with a slight addiction to video games.
+</div>
 
 &nbsp;
 &nbsp;

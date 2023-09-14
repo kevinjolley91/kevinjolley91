@@ -1,7 +1,7 @@
 # Hello there 👋
 
 <p align="center">
-  <img src="https://github.com/kevinjolley91/kevinjolley91/blob/main/21d.gif" alt="animated" width="1000" height="342"/>
+  <img src="https://github.com/kevinjolley91/kevinjolley91/blob/main/matrix-matrix-code.gif" alt="animated" width="1000" height="250"/>
 </p>
 I'm learning to become a web/software developer with a slight addiction to video games.
 

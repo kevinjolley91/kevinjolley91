@@ -6,6 +6,7 @@
 <div>
   I'm learning to become a web/software developer with a slight addiction to video games.
 </div>
+<br />
 <div>
 I'm involved in a course that is teach me Ruby on Rails, Javascript, and React.
 </div>

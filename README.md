@@ -1,14 +1,14 @@
 # Hello there 👋
 
 <p align="center">
-  <img src="https://github.com/kevinjolley91/kevinjolley91/blob/main/giphy.gif" alt="animated" width="1000" height="500"/>
+  <img src="https://github.com/kevinjolley91/kevinjolley91/blob/main/giphy.gif" alt="animated" width="600" height="300"/>
 </p>
 <div>
-  I'm learning to become a web/software developer with a slight addiction to video games.
+  I'm a web/software developer with a slight addiction to video games.
 </div>
 <br />
 <div>
-I'm involved in a course that is teach me Ruby on Rails, Javascript, and React.
+I'm been involved in a course that is taught me Ruby on Rails, Javascript, and React. I also was an assistant after my course was over.
 </div>
 <!--
 **kevinjolley91/kevinjolley91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

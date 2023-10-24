@@ -8,7 +8,7 @@
 </div>
 <br />
 <div>
-I'm been involved in a course that is taught me Ruby on Rails, Javascript, and React. I also was an assistant after my course was over.
+I'm been involved in a course that is taught me Ruby on Rails, Javascript, and React. I was also an assistant after my course was over.
 </div>
 <!--
 **kevinjolley91/kevinjolley91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
